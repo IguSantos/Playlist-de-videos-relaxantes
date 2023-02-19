@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(33, 33, 33);
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+   color: aliceblue;
+   text-align: center;
+   font-size: 20px;
+}
+
+h1 {
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+div.videos {
+    align-items: center;
+    text-align: center;
+
+}
+
+div.videos1 {
+    align-items: center;
+    text-align: center;
+}
+
+div.imagem {
+   text-align: center;
+    
+}
